@@ -1,0 +1,70 @@
+
+Customer ID: 100
+Name : gauri
+Age : 25
+MObile Number : 236547891
+Address : pune
+Gender : female
+
+Customer ID: 100
+Name : ruhii
+Age : 26
+MObile Number : 2147483647
+Address : 
+Gender : 
+
+Customer ID: 100
+Name : loa
+Age : 12
+MObile Number : 2147483647
+Address : 
+Gender : 
+
+Customer ID: 123
+Name : rew
+Age : 12
+MObile Number : 2147483647
+Address : 
+Gender : 
+
+Customer ID: 456
+Name : raveena
+Age : 0
+MObile Number : 7929856
+Address : 
+Gender : 
+
+Customer ID: 102
+Name : raveena
+Age : 21
+MObile Number : 1235478962
+Address : pune
+Gender : female
+
+Customer ID: 0
+Name : 
+Age : 8487736
+MObile Number : 8454144
+Address : 
+Gender : 
+
+Customer ID: 1234
+Name : raveenab
+Age : 45
+MObile Number : 1452368974
+Address : satara
+Gender : female
+
+Customer ID: 134
+Name : bhushan
+Age : 34
+MObile Number : 2147483647
+Address : 
+Gender : 
+
+Customer ID: 456
+Name : bhushan
+Age : 45
+MObile Number : 1234512451
+Address : delhi
+Gender : male
